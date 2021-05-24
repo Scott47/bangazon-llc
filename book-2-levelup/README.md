@@ -36,3 +36,10 @@ These chapters will let you explore more advanced capabilities and workflows bet
 | 3 | [Events per Game](./chapters/LU_EVENT_COUNT.md) <br/> <sub style="font-size:0.85rem;">#orm #annotation #count</sub> | [Sorting Games](./chapters/GR_SORTING.md) |
 | 4 | [Joined Events](./chapters/LU_JOINED_Q_FILTER.md) <br/> <sub style="font-size:0.85rem;">#orm #Q</sub> |  |
 
+## Cloud Chapters
+
+| # | ⛅️ <br/> Cloud Deploys |
+|--|--|
+| 1 | [Deploy Rare React Client to Digital Ocean](./chapters/CLOUD_DIGITAL_OCEAN_STATIC.md) |
+| 2 | [Deploy Rare API to Digital Ocean](./chapters/CLOUD_DIGITAL_OCEAN.md) |
+
