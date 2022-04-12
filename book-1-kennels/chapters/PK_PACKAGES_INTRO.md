@@ -45,7 +45,7 @@ ANIMALS = [
     },
     {
         "id": 2,
-        "name": "Gypsy",
+        "name": "Rupert",
         "species": "Dog",
         "locationId": 1,
         "customerId": 2
